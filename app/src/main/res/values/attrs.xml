@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="RepoCommitsView">
+        <attr name="commitsNumber" format="string"/>
+        <attr name="month" format="string"/>
+        <attr name="level" format="float"/>
+    </declare-styleable>
+</resources>
